@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ondrela-us.vercel.app/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://ondrela-us.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ondrela-us.vercel.app/"/>
+    <image:image>
+      <image:loc>https://ondrela-us.vercel.app/images/ondrela-hero.webp</image:loc>
+      <image:title>Ondrela gold tracker card shown with its internal layers separated</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ondrela-us.vercel.app/images/ondrela-tracker.webp</image:loc>
+      <image:title>Ondrela card tracker shown on a phone screen with its position on a map</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ondrela-us.vercel.app/images/ondrela-benefits.webp</image:loc>
+      <image:title>Ondrela card tracker shown beside the everyday items it is designed to go in</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ondrela-us.vercel.app/images/ondrela-wallet.webp</image:loc>
+      <image:title>Ondrela tracker card slotted into a wallet next to ordinary bank cards</image:title>
+    </image:image>
+  </url>
+</urlset>
